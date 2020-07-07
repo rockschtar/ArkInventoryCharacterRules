@@ -1,0 +1,16 @@
+## Interface: 80300
+
+## Title: Rockschtar ArkInventory Rules
+## Notes: Adds more rules to ArkInventory
+## Author: rockschtar
+## Version: 0.1
+## X-Embeds: LibItemUpgradeInfo
+
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## RequiredDeps: ArkInventoryRules
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Always:delayed
+
+RSArkInventoryRules.lua
