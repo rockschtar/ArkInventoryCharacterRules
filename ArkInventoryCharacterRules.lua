@@ -5,6 +5,7 @@ function ArkInventoryCharacterRules:OnEnable( )
 	registered = ArkInventoryRules.Register( self, "PLAYERNAME", ArkInventoryCharacterRules.PlayerName )
 	registered = ArkInventoryRules.Register( self, "CLASS", ArkInventoryCharacterRules.Class )
     registered = ArkInventoryRules.Register( self, "SPEC", ArkInventoryCharacterRules.Spec )
+    registered = ArkInventoryRules.Register( self, "ROLE", ArkInventoryCharacterRules.Spec )
 end
 
 function ArkInventoryCharacterRules.Class( ... )
@@ -19,7 +20,7 @@ function ArkInventoryCharacterRules.Class( ... )
 	for ax = 1, ac do
 		local arg = select( ax, ... ) 
 
-        if arg == playerClass then
+        if arg == playerClass or arg == englishClass then
             return true
         end
 	end
