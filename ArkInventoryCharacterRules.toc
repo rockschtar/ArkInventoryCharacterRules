@@ -13,4 +13,7 @@
 ## LoadManagers: AddonLoader
 ## X-LoadOn-Always:delayed
 
+## OptionalDeps: LibStub
+## X-Embeds: LibStub
+
 ArkInventoryCharacterRules.lua
