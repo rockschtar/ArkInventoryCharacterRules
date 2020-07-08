@@ -4,7 +4,6 @@
 ## Notes: Character based rules "class", "playername" and "spec" for ArkInventory
 ## Author: Rockschtar
 ## Version: 1.0.0
-## X-Embeds: LibItemUpgradeInfo
 
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
@@ -12,8 +11,5 @@
 
 ## LoadManagers: AddonLoader
 ## X-LoadOn-Always:delayed
-
-## OptionalDeps: LibStub
-## X-Embeds: LibStub
 
 ArkInventoryCharacterRules.lua
