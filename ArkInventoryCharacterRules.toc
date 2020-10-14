@@ -3,7 +3,7 @@
 ## Title: Ark Inventory [Rules] Character
 ## Notes: Character based rules "class", "playername" and "spec" for ArkInventory
 ## Author: Rockschtar
-## Version: 1.0.4
+## Version: 1.0.5
 
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
