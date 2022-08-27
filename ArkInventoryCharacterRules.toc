@@ -1,4 +1,4 @@
-## Interface: 90105
+## Interface: 90207
 
 ## Title: ArkInventory [Rules] Character
 ## Notes: Character based rules "class", "playername" and "spec" for ArkInventory
