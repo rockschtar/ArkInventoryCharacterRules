@@ -1,5 +1,5 @@
-## Interface: 100100
-
+## Interface: 100107
+## X-Interface: 100107
 ## Title: ArkInventory [Rules] Character
 ## Notes: Character based rules "class", "playername" and "spec" for ArkInventory
 ## Author: Rockschtar
