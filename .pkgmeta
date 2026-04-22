@@ -1,0 +1,8 @@
+package-as: ArkInventoryCharacterRules
+
+ignore:
+  - .github
+  - .gitignore
+  - .pkgmeta
+  - CLAUDE.md
+  - README.md
