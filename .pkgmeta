@@ -3,6 +3,6 @@ package-as: ArkInventoryCharacterRules
 ignore:
   - .github
   - .gitignore
-  - .pkgmeta
+  - .gitattributes
   - CLAUDE.md
   - README.md
